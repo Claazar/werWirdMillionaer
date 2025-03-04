@@ -50,7 +50,7 @@ We had a couple of specific tasks and goals that this code had to fulfill. Here 
    Play the game by answering the questions shown in the console.  
 
 ### Evaluation:  
-The teacher will grade this project. I will publish the evaluation once I receive it.  
+The grade from my Teacher was a 6.0 (1.0 in Germany, A+ in the USA)
 If you have any feedback, don't hesitate to message me on Discord @claazar.  
 
 ---
@@ -104,5 +104,5 @@ Wir hatten einige klare Aufgaben und Ziele, die dieser Code erfüllen musste. Hi
    Spielen Sie das Spiel, indem Sie die Anweisungen in der Konsole befolgen.  
 
 ### Bewertung:  
-Die Bewertung erfolgt durch meinen Lehrer. Ich werde die Bewertung veröffentlichen, sobald ich sie erhalten habe.  
+Die Bewertung von meinem Lehrer zu diesem Projekt war eine Note 6.0 (1.0 in Deutschland, A+ in der USA)
 Falls Sie Feedback haben, können Sie mir gerne auf Discord unter @claazar schreiben.  
